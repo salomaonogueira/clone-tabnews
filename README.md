@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação do https://www.tabnews.com para treinamento de programação
+Implementação do https://www.tabnews.com.br para treinamento de programação
